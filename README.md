@@ -1,9 +1,31 @@
-- 👋 Hi, I’m Gururaj Surampalli
-- 👀 I’m interested in IoT, ML, Blockchain, Embedded Syatems
-- 🌱 I’m currently learning Reactjs, App Script, Colab, Ganache, Inkskape and more
-- 💞️ I’m looking to collaborate on IoT, ML, AI
-- 📫 How to reach me gururajec18@gmail.com
-- My work can be accessed at https://gururajsurampalli.blogspot.com/ and https://gndecbinnovation.blogspot.com/?m=1
+### Hi there, I'm Gururaj Surampalli 👋
+
+## I'm a Husband, Father,Innovator, Developer, and Teacher!!
+
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Innovation and Open Source projects
+- ⚡ Fun fact: I love to cook food and listen music 
+
+### Connect with me:
+
+[<img align="left" alt="gururajsurampalli.blogspot.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Gururaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Gururaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gururaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gururaj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+Languages- C, C++, Arduino, Assembly, Html,CSS, Java Script
+Tools- keil, Xylink, Latex, Inkscape, Nodejs, Reactjs,VScode, Colab, App Script, Arduino, Micropython  
+
+[website]: https://gururajsurampalli.blogspot.com/
+[twitter]: https://twitter.com/gururajgps?lang=ca
+[youtube]: https://www.youtube.com/channel/UC_D6_giBS6IIS-RMnad4nPg
+[instagram]: https://instagram.com/GururajSurampalli
+[linkedin]: https://in.linkedin.com/in/gururaj-surampalli-30950235
 
 <!---
 gururajec18/gururajec18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
