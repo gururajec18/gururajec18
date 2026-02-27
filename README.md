@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Innovation and Open Source projects
+- 🥅 Life Goals: Contribute more to Innovation and Open Source projects
 - ⚡ Fun fact: I love to cook food and listen music 
 
 ### My Contributions and ways to Connect with me:
@@ -20,7 +20,7 @@
 ### Languages and Tools:
 Languages- C, C++, Arduino, Assembly, Html,CSS, Java Script
 Tools- keil, Xylink, Latex, Inkscape, Nodejs, Reactjs,VScode, Colab, App Script, Arduino, Micropython  
-
+Interests: IoT, Agentic AI, Product Development, Teaching & Learning
 [website]: https://gururajsurampalli.blogspot.com/
 [twitter]: https://twitter.com/gururajgps?lang=ca
 [youtube]: https://www.youtube.com/channel/UC_D6_giBS6IIS-RMnad4nPg
