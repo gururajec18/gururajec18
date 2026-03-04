@@ -1,8 +1,8 @@
 ### Hi there, I'm Gururaj Surampalli 👋
 
-## I'm a Husband, Father,Innovator, Developer, and Teacher!!
+## I'm a Husband,Father,Innovator,Developer and Learner!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently Assistant professor in CSE dept. A startup EDUREQ founder, handling prototype development for Govt.funded innovative ideas. MoE's Innovation Ambassador + many more 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Life Goals: Contribute more to Innovation and Open Source projects
 - ⚡ Fun fact: I love to cook food and listen music 
